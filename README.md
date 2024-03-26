@@ -11,7 +11,7 @@ The Random Quotes Generator is a web application that displays random quotes to 
 
 ## Demo
 
-You can view a live demo of the Random Quotes Generator [here](https://your-domain.com/random-quotes-generator).
+You can view a live demo of the Random Quotes Generator [here](https://wani-saleem.github.io/Random-Quotes-Generator/).
 
 ## Technologies Used
 
